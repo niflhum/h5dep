@@ -1,0 +1,56 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="963" y="244" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="682" y="252" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="668" y="382" />
+    <location key="SettingsEditor.0.0.1920.1080" x="441" y="169" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="334" y="123" />
+    <location key="find.popup.0.0.1920.1080@120dpi" x="628" y="187" />
+    <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="676" y="236" />
+    <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="430" y="320" />
+    <location key="StructurePopup.0.0.1920.1080@120dpi" x="365" y="275" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080@120dpi" x="660" y="365" />
+    <location key="VCS.EditChangelistDialog.0.0.1920.1080@120dpi" x="789" y="367" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="689" y="205" />
+    <location key="com.intellij.lang.javascript.refactoring.extractMethod.JSExtractFunctionDialog.0.0.1920.1080@120dpi" x="640" y="56" />
+    <location key="bookmarks.0.0.1920.1080@120dpi" x="190" y="279" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="471" y="26" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="813" y="159" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="560" y="85" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="781" y="225" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1439" y="913" />
+    <location key="find.popup.0.0.1920.1080" x="800" y="155" />
+    <size key="GotoFile_FileTypePopup.0.0.1920.1080" width="200" height="200" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="1035" height="841" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1431" height="871" />
+    <size key="StructurePopup.0.0.1920.1080@120dpi" width="568" height="381" />
+    <size key="bookmarks.0.0.1920.1080@120dpi" width="1519" height="427" />
+    <size key="javadoc.popup.0.0.1920.1080@120dpi" width="752" height="534" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="941" height="323" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="941" height="338" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="941" height="338" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="201" height="126" />
+    <size key="find.popup.0.0.1920.1080" width="861" height="681" />
+  </component>
+</application>
